@@ -2,15 +2,16 @@ body {background-color:black;
     font-family:arial;
     color:white;
     align-content: center;
-    font-size: 16px 
-    margin-left:25%;}
+    font-size: 16px;
+    }
 h1{color:grey;font-family:verdana}
 .maindiv{background-color:white;
     color:black;
     width:300px;
     padding:20px;
     border-radius:25px;
-    align-content: center}
+    align-content: center;
+    }
 .hello{
  	color:blue;
  }
